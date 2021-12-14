@@ -2,7 +2,10 @@
 title: Joseph Brent Goyette Lamarre
 role: Student
 avatar_filename: avatar
-interests: []
+interests:
+  - QuantumOptics
+  - MachineLearning
+  - PlasmaPhysics
 social:
   - display:
       header: false
