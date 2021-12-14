@@ -9,9 +9,9 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     link: https://www.linkedin.com/in/joseph-lamarre-658116216/
-    icon: <i class="fab fa-linkedin"></i>
+    icon: linkedin
 education:
   courses:
     - course: BSc Honours Physics
