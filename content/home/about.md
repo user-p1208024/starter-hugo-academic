@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Joseph currently works at Castor Optics, a photonics company based in Montreal that focuses on all fiber optical components with an emphasis on linear optics and minimal power loss. He studied at the Univeristy of Waterloo where he obtained a B.Sc. in Honours Physics, graduating with disctinctions. He is fascinated by the interface between quantum optics and biology, but also has a strong penchant for nuclear fusion. More broadly, he wishes to use machine learning and parralel computing applied through stochastic processes to make sense of unruly mathematics.
