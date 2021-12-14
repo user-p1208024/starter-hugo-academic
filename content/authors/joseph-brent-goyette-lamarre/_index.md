@@ -1,7 +1,7 @@
 ---
 title: Joseph Brent Goyette Lamarre
-role: Student
-avatar_filename: avatar
+role: Student in Break
+avatar_filename: 51rrttwqfal._sl1000_.jpg
 interests:
   - QuantumOptics
   - MachineLearning
